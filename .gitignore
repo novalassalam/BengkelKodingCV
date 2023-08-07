@@ -1,3 +1,4 @@
 *.pkl
 sampah/
 dataset/
+*.DS_Store
